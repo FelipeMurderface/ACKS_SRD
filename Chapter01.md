@@ -3,89 +3,87 @@
 * * *
 
 
-# Chapter 1: Introduction
+# Capítulo 1 - Introdução
 
-It is an age when empires totter on the brink of war, and terrible monsters tear at the fragile borderlands of men; when decaying cities teem with chaos and corruption, where nubile maidens are sacrificed to chthonic cults and nobles live in decadent pleasure on the toil of slaves; when heroes, wizards, and rogues risk everything in pursuit of glory, fortune, and power. These are days when adventurers can become conquerors... and conquerors can become kings!
-
-
-## About the Game
-
-The Adventurer Conqueror King System (ACKS) is a set of rules for role-playing in a world of swords, sorcery, and strongholds, where you take on the role of an adventurer in an imaginary land drawn from the epics and legends of the past.
-
-The Adventurer Conqueror King System provides a complete toolkit for enjoying a wide variety of heroic fantasy settings. It covers character creation, spells and magic, encounters and combat, monsters and treasure, and all the associated game mechanics necessary for swords-and-sorcery adventure. 
-
-Whatever setting your adventures inhabit, with the Adventurer Conqueror King System, you can seek fame, wealth, and power by conquering foes, gathering treasure, and accumulating land and followers. If you are skilled and lucky, you may rise to become a mighty overlord, a wizard-king, or theocrat, holding the destiny of thousands in your hands. If not, the wages of your adventures will be merely death...
+É uma época em que os impérios cambaleiam à beira da guerra e monstros terríveis destroem as frágeis fronteiras dos homens; uando as decadentes cidades se afogam em caos e corrupção;  onde donzelas virginanis são sacrificadas a cultos ctônicos e nobres deleitam-se de forma decadente com a labuta dos escravos; quando heróis, feitiçeiros e trapaceiros arriscam tudo em busca por glória, fortuna e poder. Estes são dias em que os aventureiros podem se tornar conquistadores...e os conquistadores podem se tornar reis!
 
 
-## How to Use This Book
+## Sobre o Jogo
 
-This rulebook contains the complete rules of the Adventurer Conqueror King System, organized into the following parts.
+O Adventurer Conqueror King System (ACKS) é um conjunto de regras para jogos de interpretação de personagens em um mundo de espadas, feitiços e fortalezas, onde você toma o papel de um aventureiro em uma terra imaginária, baseada em contos épicos e lendas do passado.
 
-[Chapter 1, Introduction](Chapter01.md#chapter-1-introduction), explains the concept of role-playing and defines the most important terms used in the rulebook. 
+O Adventurer Conqueror King System provê um kit de ferramentas para emular uma grande variedade de ambientações de fantasia heróica. Ele cobre criação de personagens, feitiçaria e magia, encontros e combate, monstros e tesouros, e toda sorte de mecânicas necessárias para uma aventura de Espada & Feitiçaria.
 
-[Chapter 2, Characters](Chapter02.md#chapter-2-characters), provides numbered, easy to follow steps to create a player character, along with lists of equipment. 
-
-[Chapter 3, Equipment](Chapter03.md#chapter-3-equipment), provides prices and statistics for the various weapons, armor, and other equipment available in the game. 
-
-[Chapter 4, Proficiencies](Chapter04.md#chapter-4-proficiencies), details the various proficiencies that characters may acquire, along with information on the game mechanics of all proficiencies. 
-
-[Chapter 5, Spells](Chapter05.md#chapter-5-spells), lists the various spells that different characters may learn and cast, along with a detailed description of each spell's effect in the game. 
-
-[Chapter 6, Adventures](Chapter06.md#chapter-6-adventures), provides rules for exploration, encounters, and combat in the dangerous and violent world that the player characters will adventure within.
-
-[Chapter 7, Campaigns](Chapter07.md#chapter-7-campaigns), covers the long-range pursuits of characters as they adventure, including conducting magical research, building strongholds, and establishing domains and realms.
-
-[Chapter 8, Monsters](Chapter08.md#chapter-8-monsters), contains a roster of over 100 creatures, some malefic and others benevolent, arranged alphabetically.
-
-[Chapter 9, Treasure](Chapter09.md#chapter-9-treasure), contains descriptions and explanations of the different types of treasure, including rare and wondrous magic items, which adventures may find.
-
-[Chapter 10, Secrets](Chapter10.md#chapter-10-secrets), provides guidelines for the Judge on constructing campaign settings, designing dungeons, and judging the game. 
+Seja qual que for o cenário em que os aventureiros estejam, com o Adventurer Conqueror King System você poderá buscar fama, fortuna e poder através da conquista de seus inimigos, acúmulo de riquezas, angariando terras e seguidores. Se fores astuto e sortudo, poderá ascender a um poderoso senhor de terras, um feitiçeiro rei, um teocrata...detendo o destino de milhares em suas mãos. Caso contrário, suas aventuras serão a passagem pela última porta...
 
 
-## The Basics of The Game
+## Como Usar Esse Livro
 
-Read this section carefully! These terms will be used through the rules of the Adventurer Conqueror King System.
+Esse livro de regras conté as regras do Adventurer Conqueror King System, organizada nas seguintes partes.
 
-When a group of people sit down to play using ACKS, the participants are called players, and they take on the role of a character (or, sometimes, more than one character). Characters played by players are referred to as player characters (PCs) or adventurers. The players act in the role of their characters in the world designed and presented by a special game participant referred to as the Game Judge (or Judge for short). It's the Judge's responsibility to prepare ahead of time to give the players opportunities for adventure, and to judge the results of their choices during adventurers fairly and wisely. The Judge is the referee of the game, and the final arbitrator of rules and rules decisions. He also narrates the action of the game, and plays the roles of all the various monsters in the world. A special type of monster is the non-player character (NPC). NPCs share many similarities with the characters played by the players, but the Judge determines their actions, personalities, and motivations. PCs, NPCs, and other monsters are collectively called creatures. 
+[Capítulo 1 - Introdução](Chapter01.md#chapter-1-introduction), explicando o conceito de jogos de interpretação e os termos utilizados nesse livro de regras.
 
-Characters have ability scores, which determine how strong, smart, and otherwise talented they are. Based on their ability scores, characters each will select a class, such as fighter or mage, which might be thought of as a profession, and which dictates what sorts of training and capabilities characters can develop. Characters have levels of experience, or class levels, which measure how well-developed and powerful they are. Player characters begin at 1st level in a particular class. Normal people, lacking the call to adventure, are generally 0th level characters.
+[Capítulo 2 - Personagens](Chapter02.md#chapter-2-characters), contém o passo a passo para construir um personagem jogador e  uma lista de equipamentos.
 
-Experience points (XP) are used to measure the progress of characters through their class levels. These points are earned based partly on how powerful defeated monsters are, but mostly on how much treasure is found and returned to civilization by the player characters. As characters accumulate experience points through fighting monsters and gaining wealth, they will reach higher levels (2nd level, 3rd level, and so on). Gaining a level is a special occasion, because it incrementally marks your success as your alter ego. Each time a character gains a level, he becomes more powerful and capable of taking on the dangers of more exciting adventures. 
+[Capítulo 3 - Equipamento](Chapter03.md#chapter-3-equipment), contém preços e estatísticas para as mais variadas armas, armaduras e outros equipamentos disponíveis no jogo.
 
-Monsters also have levels, called monster levels, which are a direct measure of how challenging an opponent the monster is. Likewise, spell levels measure how powerful a spell is. For instance, some spells are 1st level spells, and some are 2nd level, and so on. Monster and spell levels do not directly correspond to class levels; they are only a relative measure of the power of spells.
+[Capítulo 4 - Competências](Chapter04.md#chapter-4-proficiencies), detalha as várias proficiêncnias que os personagens podem adquirir, bem como as mecânicas de jogo para todas as competências.
 
-As characters go up in level, one thing that changes is their number of hit points (hp). Characters gain more hp as they advance in levels, and this allows them to endure more damage and survive. Characters most often take damage from monsters while engaged in an encounter. An encounter is a situation in which the PCs and monsters are interacting. Time and movement are measured in detail during encounters, with actions resolved in a precise order known as initiative.
+[Capítulo 5 - Feitiçaria](Chapter05.md#chapter-5-spells), listas com os variados feitiços que os diferentes personagens podem dominar e invocar, além de uma detalhada descrição de cada feitiço dentro do jogo.
 
-A series of encounters connected by time, location, and player choices is called an adventure. An adventure is often used to describe one play session, but it may also be used in reference to a full scenario that may take several play sessions to finish. Many published adventures will use the term adventure and module interchangeably. When many adventures are strung together, often with the same characters in play, this is referred to as a campaign.
+[Capítulo 6 - Aventurando-se](Chapter06.md#chapter-6-adventures), contém regras para exploração, encontros e combate nesse perigoso e violento mundo no qual os personagens irão se aventurar.
 
-Most adventures the characters undertake will initially take place in monster-filled dungeons, underground complexes that are stocked with many monsters, treasures, and treacherous secrets. Dungeons may be large or small, but they are usually underground locations that are determined and described by the Judge. While the Judge may design these areas, published pre-made dungeons might also be used. Dungeons are divided into dungeon levels. A dungeon level could be thought of as a floor of a building. When characters travel into the top-most level of a dungeon, they are in the level closest to the surface of the earth. If the dungeon has multiple levels, the next level down is the second level, then the third, and so on. The deeper the dungeon level, the greater the dangers that await the characters. 
+[Capítulo 7 - Campanhas](Chapter07.md#chapter-7-campaigns), traz as buscas dos personagens em suas aventuras a longo prazo, incluindo como conduzir estudos sobre feitiçaria, construir fortalezas e estabelecer domínios e reinos.
 
-After many adventures, high-level characters will begin to construct strongholds, such as castles or towers.. Strongholds enable a character to attract followers and establish domains over which he exerts sovereign control. With careful play, a character may establish or conquer multiple domains and ultimately establish a realm. Being ruler of a vast realm is the ultimate goal of many characters in Adventure Conqueror King campaigns.
+[Capítulo 8 - Monstros](Chapter08.md#chapter-8-monsters), algumas maléficas e outras benevolentes, em ordem alfabética
 
+[Capítulo 9 - Tesouros](Chapter09.md#chapter-9-treasure), contém descrições de diferentes tipos de tesouro, incluindo raridades e maravilhas mágicas, que os jogadores poderão encontrar.
 
-## Winning and Losing the Game
-
-No one "loses" when playing the Adventurer Conqueror King System. In the course of adventure, your adventurers will frequently die; this is a fact of the game, but it does not indicate failure or "losing" in the sense that someone loses at, say, a card game. One can measure "success" under the Adventurer Conqueror King System in many ways, such as acquiring treasure, levels of experience, or castles and followers. In some cases, a glorious death may be the greatest success! 
-
-However, the one common measure of success that everyone should strive for is to have fun. Everyone can win at this game, because everyone can have fun playing it. So while a character may die, or riches may be lost, it is the game play itself that matters. Winning is in being able to suspend disbelief long enough to be immersed in the fantasy world you create with your party. 
+[Capítulo 10 - Segredos](Chapter10.md#chapter-10-secrets),  provê guias gerais para o Juiz construir uma campanha, criar masmorras e conduzir o jogo.
 
 
-## Dice
+## O Básico Sobre o Jogo
 
-The Adventurer Conqueror King System primarily uses six different kinds of dice to determine the results of actions and situations, but these same dice might be used to generate numbers of varying ranges. These different dice and the terms employed to use and describe them are detailed below.
+Leia atentamente esta seção! Esses são os termos que serão utilizados nas regras do Adventurer Conqueror King System.
 
-The 20 sided die, or d20, is one of the most important dice in the game: it is used to resolve all attack and saving throws.  As explained later, when making a throw, the die is rolled, and modifiers are then added or subtracted. If the total result equals or exceeds an assigned value, the roll is a success; otherwise it has failed.
+Quando um grupo de pessoas senta para jogar utilizando o ACKS, os participantes são chamados Jogadores, onde cada um assumirá o papel de um personagem (as vezes mais de um personagem). Os personagens controlados pelos jogadores serão conhecidos como Personagens dos Jogadores (PJs) ou aventureiros. Os jogadores atuarão no papel de seus personagens em um mundo criado e apresentado por um outro participante que será conhecido como o Juiz do Jogo (ou apenas Juiz). É da responsabilidade do Juiz preparar antecipadamente o que os jogadores encontrarão como oportunidades de aventura durante o jogo, também deverá julgar os resultados de suas escolhas de forma justa e sábia. O Juiz é o árbitro do jogo e é sua a decisão final sobre as regras. Ele também descreverá as ações dentro de jogo e será responsável pelos papéis de diversas criaturas no mundo ficcional. Um tipo especial de criatura é o Personagem Não Jogador (NPJ). NPJs compartilham algumas similaridades com os personagens dos jogadores, mas o Juiz determinará suas ações, personalidades e motivações.
 
-The 10 sided die, or d10, is used to generate numbers from 1 to 10; it is numbered 0 to 9, but a roll of 0 is counted as 10.  A pair of d10s are also used together to generate numbers from 1 to 100, where a roll of 00 is counted as 100.  The two dice should be different colors, and the player must declare which die is the tens digit and which die is the ones digit before rolling them!    Rolling two d10s this way is called a percentile roll, or d100.  
+Personagens possuem atributos, que determinarão quão forte, espertos e capazes eles são. Baseados nos seus valores de atributo, personagens irão selecionar uma classe, tais como Combatente ou Mago, que pode ser encarado como uma profissão e ditará que tipo de treinamento e capacidades os personagens podem apresentar. Personagens possuem níveis de experiência, ou níveis de classe, que medem quão aprimorados e poderosas eles são. Personagens Jogadores começam no 1º nível de uma determinada classe. Pessoas normais que não receberam o chamado da aventura são geralmente personagens de nível 0.
 
-The 4 sided die, or d4, is a special case.  It is not so much rolled as "flipped," and the number which is upright is the result of the roll.  
+Pontos de Experiência (PE) são usados para medir o progresso dos personagens através dos seus níveis de classe. Esses pontos são adquiridos em parte por quão podersos são os monstros derrotados, em parte pelos tesouros descobertos e retornados a civilização pelos personagens dos jogadores. Os personagens podem acumular experiÊncia através da luta contra monstros e acúmulo de fortuna, alcançando níveis maiores (2º nível, 3º nível e assim por diante). Ganhar um nível é uma ocaisão especiail, devido ao incremento de sucesso do seu alter elgo. Toda vez que um personagem ganha um nível, ele tornará-se mais poderoso e capaz de encarar perigos e aventuras excitantes.
 
-The other dice normally used have 6, 8, and 12 sides, and are called d6, d8, and d12.  d6s may be made with either numbers or pips; it makes no difference which sort you choose.
+Monstros também possuem níveis, chamados níveis de monstro, que é uma medida direta de quão poderoso o monstro é. De forma similar, níveis de magia ditam quão poderosa é uma feitiçaria. Por exemplo, alguns feitiços são de nível 1, outros de nível 2 e por aí vai. Níveis de monstro e feitiço não são correspondentes aos níveis de classe; são apenas uma medida de poder.
 
-When multiple dice are to be rolled and added together, it is noted in the text like this: 2d6 (roll two d6 dice and add them together), or 3d4 (roll three d4 dice and add them together).  A modifier may be noted as a "plus" value, such as 2d8+2 (roll two d8 dice and add them together, then add two to the total).
+A medida que um personagem avança de nível, uma coisa que muda será sua Vitalidade (vit). Personagens recebem mais pontos de vit quando avançam de nível, isso os permite encarar mais perigos e sobreviver. Personagens normalmente tomam dano de monstros quando engajados em um encontro. Um encontro é uma situação na qual os PJs e monstros estão interagindo. Tempo e movimento são mensurados durante os encontros, onde as ações são resolvidas em uma precisa ordem de iniciativa. 
+
+Uma série de encontros conectados por tempo, ambientação e escolha dos personagens é chamada de aventura. Uma aventura é geralmente descrita como uma sessão de jogo, mas pode ser usada como referenciar um cenário completo que pode tomar diversas sessões para ser finalizado. Muitas aventuras publicadas utilizarão o termo aventura e módulo de forma intercambiável. Quando muitas aventuras são amarradas juntas, geralmente pelos mesmos personagens, o termo utilizado é campanha.
+
+Muitas aventuras que os personagens enfrentarão serão incialmente em masmorras repletas de monstros, complexos subterrâneos que são recheados de monstros, aventuras e segredos traiçoeiros. Masmorras podem ser grandes ou pequenas, mas normalmente são complexos subterrâneos que são criados e descritos pelo Juiz. Enquanto o Juiz cria essas áreas, masmorras prontas e publicadas podem ser utilizadas. Masmorras são divididas em níveis. Um nível constitui em um andar de uma construção. Quando os personagens viajam para o nível mais alto de uma masmorra, eles estão no nível mais próximo da superfície da Terra. Se a masmorra tem vários níveis, o próximo nível abaixo é o segundo nível, depois o terceiro e assim por diante. Quanto mais profundo o nível da masmorra, maiores os perigos que esperam os personagens.
+
+Após muitas aventuras, personagens de nível alto começarão a construir suas fortalezas, tais como castelos ou torres. Fortalezas permitem os personagens atrair seguidores e estabelecer um domínio em que exercerá controle soberano. Jogando com cuidado, um personagem poderá estabelecer ou conquistar múltiplos domínios e então estabelecer um reino. Tornar-se um governante é uma das maiores conquistar possíveis que um jogador poderá alcançar em campanha no Adventure Conqueror King.
 
 
-| Notation | Meaning
+## Vencendo e Perdendo no Jogo
+
+Ninguém "perde" quando joga o ACKS. No intercurso da aventura, os aventureiros frequentemente irão encontrar a morte; esse é um fato estabelecido no jogo, mas isso não indica falha ou "perder o jogo". Já a medida de "sucesso" durante o jogo é visto de diversas formas, tais como adquirir tesouro, níveis de experiência, castelos e seguidores. Em alguns casos, uma morte gloriosa pode ser uma grande conquista!
+
+Todavia, uma medida de sucesso que todos devem ter em mente é a diversão. Todos devem ganhar o jogo, pois todos devem se divertir jogando. Mesmo que um personagem venha a morrer ou riquezas sejam perdidas, o jogo em si é que importa. Ganhar é ser capaz de suspender a descrença por tempo suficiente para estar imerso no mundo de fantasia que você cria com seus amigos.
+
+
+## Dados
+
+O ACKS usa seis tipos diferentes de dados para determinar os resultados das ações e situações, mas esses mesmos dados podem ser usados para gerar uma variedade de números. Esses dados diferentes e os termos usados para os descrever serão detalhados abaixo.
+
+O dado de 20 lados, ou d20, é um dos dados mais importantes nesse jogo: ele é utilizado para resolver todos os ataques e jogadas de proteção. Como será explicado mais a frente, quando você jogar realizar uma rolagem, o dado é jogado e os modificadores de soma ou subtração são aplicados. Se o total for igual ou exceder o valor designado, a rolagem é um sucesso. Caso contrário é uma falha.
+
+O dado de 10 lados, ou d10, é usado para gerar um número entre 1 e 10. É número de 0 a 9, mas o 0 corresponde a 10. Um par de d10s pode ser usado para gerar números de 1 a 100, onde 00 corresponde a 100. Os dois dados devem ser de diferentes cores e um jogador deve declarar qual dado é a dezena e qual é a porcentagem antes de jogar! Jogar dois d10s é chamado jogada de percentagem.
+
+Os demais dados são de 4, 6, 8 e 12 faces, chamados de d4, d6, d8 e d12.
+
+Quando múltiplos dados são rolados juntos, o texto denotará algo como: 2d6 (role dois dados de 6 faces juntos) ou 3d4 (role 3 dados de 4 faces juntos). Um modificador pode ser adicionado como soma ou subtração, tal como 2d8+2 (role dois dados de 8 faces e some 2 ao valor para obter o total).
+
+
+| Notação  | Significado
 | -------: | :------
 |       d2 | A result of 1 to 2 is obtained by rolling 1d6. A result of 1-3 = 1, and 4-6 = 2.
 |       d3 | A result of 1 to 3 is obtained by rolling 1d6. A result of 1-2 = 1, 3-4 = 2, and 5-6 = 3.
