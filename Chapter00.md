@@ -1,6 +1,7 @@
 # Adventurer Conqueror King System
 
 **Regras para Jogos de Interpretação em um Mundo de Espadas, Feitiçaria e Fortalezas**
+
 **Uma tradução Guilda dos Mestres**
 
 ## Índice Remissivo
